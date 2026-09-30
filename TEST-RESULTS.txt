@@ -1,0 +1,26 @@
+index.html at 1440px: no overflow; all images and link targets valid
+about.html at 1440px: no overflow; all images and link targets valid
+spells.html at 1440px: no overflow; all images and link targets valid
+love-spells.html at 1440px: no overflow; all images and link targets valid
+faqs.html at 1440px: no overflow; all images and link targets valid
+contact.html at 1440px: no overflow; all images and link targets valid
+index.html at 768px: no overflow; all images and link targets valid
+about.html at 768px: no overflow; all images and link targets valid
+spells.html at 768px: no overflow; all images and link targets valid
+love-spells.html at 768px: no overflow; all images and link targets valid
+faqs.html at 768px: no overflow; all images and link targets valid
+contact.html at 768px: no overflow; all images and link targets valid
+index.html at 390px: no overflow; all images and link targets valid
+about.html at 390px: no overflow; all images and link targets valid
+spells.html at 390px: no overflow; all images and link targets valid
+love-spells.html at 390px: no overflow; all images and link targets valid
+faqs.html at 390px: no overflow; all images and link targets valid
+contact.html at 390px: no overflow; all images and link targets valid
+index.html at 320px: no overflow; all images and link targets valid
+about.html at 320px: no overflow; all images and link targets valid
+spells.html at 320px: no overflow; all images and link targets valid
+love-spells.html at 320px: no overflow; all images and link targets valid
+faqs.html at 320px: no overflow; all images and link targets valid
+contact.html at 320px: no overflow; all images and link targets valid
+Passed: mobile menu, page navigation, Escape, Love Spells link, FAQ interaction, scroll reveal, three contact animations, motion pause and persistence, reduced motion, no-JavaScript content, no browser script errors.
+Contact destinations checked exactly; no message or call was sent. Ownership and deliverability are not verified.
