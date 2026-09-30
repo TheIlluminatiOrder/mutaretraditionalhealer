@@ -10,3 +10,4 @@ function applyMotion() { document.documentElement.classList.toggle('motion-off',
 applyMotion();
 motionButton.addEventListener('click', () => { paused = !paused; applyMotion(); try { localStorage.setItem('mutare-motion', paused ? 'paused' : 'enabled'); } catch {} });
 if ('IntersectionObserver' in window && !reduced.matches) { const observer = new IntersectionObserver(entries => { entries.forEach(entry => { if (entry.isIntersecting) { entry.target.classList.add('visible'); observer.unobserve(entry.target); } }); }, { threshold: 0.08 }); document.querySelectorAll('[data-reveal]').forEach(el => { el.classList.add('reveal-ready'); observer.observe(el); }); }
+

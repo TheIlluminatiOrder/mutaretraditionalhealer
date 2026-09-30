@@ -15,8 +15,8 @@ All nine JPEG files were supplied in Desktop/spells and retain their original na
 Includes the edited About Me, services, lost-love copy, four original FAQ topics, and five additional FAQs. Disclaimer blocks and warning-style additions have been removed.
 
 ## Contact details
-WhatsApp: https://wa.me/2639151360
-Phone: tel:+2639151360
+WhatsApp: https://wa.me/263779151360
+Phone: tel:+263779151360
 Email: mailto:mutaredamafalls@gmail.com
 These reproduce the supplied details exactly. Link behavior can be checked, but account ownership, WhatsApp registration, and deliverability have not been verified.
 
@@ -25,3 +25,4 @@ Keyboard-friendly links and native FAQ disclosures; mobile menu with Escape supp
 
 ## Privacy
 No form submissions, analytics, remote fonts, trackers, or cookies are included. Local storage remembers only the animation preference. Contact providers apply their own privacy policies.
+
